@@ -1,2 +1,7 @@
 tipos de empresa
 persona juridica y persona fisica
+
+finanzas 
+logistica
+compras
+ventas
